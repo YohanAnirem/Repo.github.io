@@ -1,0 +1,40 @@
+.card{
+    
+    align-items: center;
+    gap: 10px;
+}
+.card img{
+    display: flex;
+    width:20px;
+    height: 20x;
+}
+.card-img-top{
+    display: flex;
+    float:left;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+}
+.footer img{
+    padding: px 10px;
+    max-width: 120px;
+}
+.footer .form{
+max-width: 70px;
+}
+
+.footer-1{
+    display: flex;
+    top:10px;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.footer-1 h4{
+    
+font-size: 13px;
+padding: 0px 15px;
+}
